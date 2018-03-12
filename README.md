@@ -1,3 +1,5 @@
+Fork of jbaranda/nupkg-selenium-webdrivers because it didn't have the recent webdriver version + I don't like using binaries from people I don't trust.
+
 # NuGet packages for WebDriver - Chrome, Firefox, Internet Explorer, PhantomJS
 
 ## This is a repurposed repo of [nupkg-selenium-webdriver-chromedriver](https://github.com/jsakamoto/nupkg-selenium-webdriver-chromedriver) by [jsakamoto](https://github.com/jsakamoto) that handles downloading Chrome, Firefox, Internet Explorer WebDrivers, and PhantomJS instead
