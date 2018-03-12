@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>Selenium.Chrome.WebDriver</id>
     <version>2.35</version>
+    <id>AlexP.Selenium.Chrome.WebDriver</id>
     <authors>jbaranda</authors>
     <summary>Selenium Chrome WebDriver (Win32)</summary>
     <description>
@@ -34,6 +34,6 @@
   </metadata>
   <files>
     <file src="chromedriver.exe" target="driver"/>
-    <file src="Selenium.Chrome.WebDriver.targets" target="build"/>
+    <file src="AlexP.Selenium.Chrome.WebDriver.targets" target="build"/>
   </files>
 </package>
